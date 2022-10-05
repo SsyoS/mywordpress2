@@ -9,8 +9,8 @@
 
 <channel>
 	<title>My WordPress</title>
-	<atom:link href="http://github.com/feed/" rel="self" type="application/rss+xml" />
-	<link>http://github.com</link>
+	<atom:link href="https://ssyos.github.io/mywordpress2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ssyos.github.io/mywordpress2</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 24 Aug 2022 01:55:43 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Top 4 những địa điểm du lịch bạn nên tới một lần ở việt nam</title>
-		<link>http://github.com/top-4-nhung-dia-diem-du-lich-ban-nen-toi-mot-lan-o-viet-nam-2/</link>
-					<comments>http://github.com/top-4-nhung-dia-diem-du-lich-ban-nen-toi-mot-lan-o-viet-nam-2/#respond</comments>
+		<link>https://ssyos.github.io/mywordpress2/top-4-nhung-dia-diem-du-lich-ban-nen-toi-mot-lan-o-viet-nam-2/</link>
+					<comments>https://ssyos.github.io/mywordpress2/top-4-nhung-dia-diem-du-lich-ban-nen-toi-mot-lan-o-viet-nam-2/#respond</comments>
 		
 		<dc:creator><![CDATA[huynhhoanglong]]></dc:creator>
 		<pubDate>Wed, 24 Aug 2022 01:45:34 +0000</pubDate>
 				<category><![CDATA[du lịch]]></category>
-		<guid isPermaLink="false">http://github.com/?p=61</guid>
+		<guid isPermaLink="false">https://ssyos.github.io/mywordpress2/?p=61</guid>
 
-					<description><![CDATA[1.Sapa Nếu có thể dùng những từ ngắn gọn để miêu tả Sapa thì chỉ có thể là tuyệt đẹp, bí ẩn và trong lành. Giới thiệu một chút về Sapa, Sapa nằm&#160;ở phía tây bắc của Tổ quốc, thuộc&#160;huyện vùng cao của tỉnh Lào Cai. Là vùng đất được thiên nhiên ưu đãi cho &#8230; <p class="link-more"><a href="http://github.com/top-4-nhung-dia-diem-du-lich-ban-nen-toi-mot-lan-o-viet-nam-2/" class="more-link">Đọc tiếp<span class="screen-reader-text"> "Top 4 những địa điểm du lịch bạn nên tới một lần ở việt nam"</span></a></p>]]></description>
+					<description><![CDATA[1.Sapa Nếu có thể dùng những từ ngắn gọn để miêu tả Sapa thì chỉ có thể là tuyệt đẹp, bí ẩn và trong lành. Giới thiệu một chút về Sapa, Sapa nằm&#160;ở phía tây bắc của Tổ quốc, thuộc&#160;huyện vùng cao của tỉnh Lào Cai. Là vùng đất được thiên nhiên ưu đãi cho [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p><strong>1.Sapa</strong></p>
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top" style="grid-template-columns:45% auto"><figure class="wp-block-media-text__media"><img src="http://github.com/wp-content/uploads/2022/08/anh-sapa-1-1024x683.jpg" alt="" class="wp-image-11 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top" style="grid-template-columns:45% auto"><figure class="wp-block-media-text__media"><img src="https://ssyos.github.io/mywordpress2/wp-content/uploads/2022/08/anh-sapa-1-1024x683.jpg" alt="" class="wp-image-11 size-full"/></figure><div class="wp-block-media-text__content">
 <p>Nếu có thể dùng những từ ngắn gọn để miêu tả Sapa thì chỉ có thể là tuyệt đẹp, bí ẩn và trong lành. Giới thiệu một chút về Sapa, Sapa nằm&nbsp;ở phía tây bắc của Tổ quốc, thuộc&nbsp;huyện vùng cao của tỉnh Lào Cai. Là vùng đất được thiên nhiên ưu đãi cho núi rừng hùng vĩ, bí ẩn bởi toàn đồi núi được e nấp trong làn sương trắng mờ. Không khí cực kỳ mát mẻ, trong lành tinh khiết. Nếu đến Sapa trong mùa hoa mơ nở trắng xóa bạn phải ngỡ ngàng như đang lạc vào thiên đường.</p>
 </div></div>
 
@@ -49,7 +49,7 @@
 
 
 
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top" style="grid-template-columns:auto 45%"><figure class="wp-block-media-text__media"><img src="http://github.com/wp-content/uploads/2022/08/V-1024x576.jpg" alt="" class="wp-image-16 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top" style="grid-template-columns:auto 45%"><figure class="wp-block-media-text__media"><img src="https://ssyos.github.io/mywordpress2/wp-content/uploads/2022/08/V-1024x576.jpg" alt="" class="wp-image-16 size-full"/></figure><div class="wp-block-media-text__content">
 <p id="block-6a9109c6-044e-48bd-a22f-a22e41ffc436">Vịnh Hạ Long là địa điểm có thể nói là nổi tiếng nhất Việt Nam, bởi nó đã được công nhận là di sản văn hóa thế giới, bỏi nó &nbsp;là tác phẩm nghệ thuật tạo hình kỳ lạ của tạo hóa đã ban cho đất nước việt nam , không khỏi khiến du khách thích thú nhưng cũng đầy bối rối. Đến với Hạ Long giúp bạn sẽ cảm nhận được những tác phẩm tạo hình tuyệt mỹ, tài hoa của tạo hoá, của thiên nhiên biến hàng ngàn đảo đá vô tri tĩnh lặng kia trở nên những tác phẩm điêu khắc.</p>
 
 
@@ -71,7 +71,7 @@
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top" style="grid-template-columns:45% auto"><figure class="wp-block-media-text__media"><img src="http://github.com/wp-content/uploads/2022/08/OIP.jpg" alt="" class="wp-image-17 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-top" style="grid-template-columns:45% auto"><figure class="wp-block-media-text__media"><img src="https://ssyos.github.io/mywordpress2/wp-content/uploads/2022/08/OIP.jpg" alt="" class="wp-image-17 size-full"/></figure><div class="wp-block-media-text__content">
 <p></p>
 
 
@@ -89,7 +89,7 @@
 
 
 
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top" style="grid-template-columns:auto 46%"><figure class="wp-block-media-text__media"><img src="http://github.com/wp-content/uploads/2022/08/download.jpg" alt="" class="wp-image-18 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top" style="grid-template-columns:auto 46%"><figure class="wp-block-media-text__media"><img src="https://ssyos.github.io/mywordpress2/wp-content/uploads/2022/08/download.jpg" alt="" class="wp-image-18 size-full"/></figure><div class="wp-block-media-text__content">
 <p>Đà Lạt là thành phố trực thuộc tỉnh Lâm Đồng, nằm trên cao nguyên Lâm Viên, thuộc vùng Tây Nguyên, Việt Nam . được mệnh danh là thành phố mộng mơ, nếu bạn đặt &nbsp;chân tới đây, chắc chắn sẽ thốt lên vì vẻ đẹp mơ mộng của nó. Sương trắng tà tà bay ngang, rừng thông bạt ngàn mát mẻ. Ở Đà Lạt đặc biệt không có đèn giao thông, nhịp sống chậm rãi, thật thanh bình. Lên đấy bạn chỉ ước có thể ở đấy lâu hơn, không khí trong lành mát mẻ, gió se se lạnh, ẩm thực đặc biệt về rau củ quả, tươi ngon lạ thường. khi ban đến đã lạc sẽ được trải nghiêm cuộc sống thơ mộng trữ tình của nơi đây.</p>
 </div></div>
 
@@ -98,7 +98,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://github.com/top-4-nhung-dia-diem-du-lich-ban-nen-toi-mot-lan-o-viet-nam-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ssyos.github.io/mywordpress2/top-4-nhung-dia-diem-du-lich-ban-nen-toi-mot-lan-o-viet-nam-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
